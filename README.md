@@ -2,10 +2,10 @@
 
 # Preview
 
-https://github.com/VimalPatel14/Music-Player-Bass_Boost-Equalizer/blob/master/np_card.png
+![SC1](https://github.com/VimalPatel14/Music-Player-Bass_Boost-Equalizer/blob/master/np_card.png)
 
-https://github.com/VimalPatel14/Music-Player-Bass_Boost-Equalizer/blob/master/tutorial_queue_swipe_up.png
+![SC2](https://github.com/VimalPatel14/Music-Player-Bass_Boost-Equalizer/blob/master/tutorial_queue_swipe_up.png)
 
-https://github.com/VimalPatel14/Music-Player-Bass_Boost-Equalizer/blob/master/tutorial_rearrange_queue.png
+![SC3](https://github.com/VimalPatel14/Music-Player-Bass_Boost-Equalizer/blob/master/tutorial_rearrange_queue.png)
 
-https://github.com/VimalPatel14/Music-Player-Bass_Boost-Equalizer/blob/master/np_flat.png
+![SC4](https://github.com/VimalPatel14/Music-Player-Bass_Boost-Equalizer/blob/master/np_flat.png)
