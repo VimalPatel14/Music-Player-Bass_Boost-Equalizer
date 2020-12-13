@@ -1,6 +1,6 @@
 # Music-Player-Bass_Boost-Equalizer
 
-# Preview
+# Preview Images
 
 ![SC1](https://github.com/VimalPatel14/Music-Player-Bass_Boost-Equalizer/blob/master/np_card.png)
 
