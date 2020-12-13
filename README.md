@@ -1,4 +1,6 @@
-# Music-Player-Bass_Boost-Equalizer
+# Music Player
+# Bass_Boost
+# Equalizer
 
 # Preview Images
 
