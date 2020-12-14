@@ -1,5 +1,5 @@
 # Music Player
-# Bass_Boost
+# Bass Boost
 # Equalizer
 
 # Preview Images
