@@ -1,6 +1,9 @@
 # Music Player
-# Bass Boost
+<p>The best Music Equalizer - Bass Booster & Volume Booster</p>
 # Equalizer
+<p>Improve your sound quality to let you enjoy the best music.</p>
+# Bass Boost
+<p>Bass Booster lets you adjust sound effect levels so that you get the best out of your Music or Audio play coming out of your phone. Virtualizer making media files produce quality sound in a Digital Surround Support!<p>
 
 # Preview Images
 
