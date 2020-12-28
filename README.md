@@ -8,7 +8,6 @@
 
 <p>Bass Booster lets you adjust sound effect levels so that you get the best out of your Music or Audio play coming out of your phone. Virtualizer making media files produce quality sound in a Digital Surround Support!<p>
 
-# Preview Images
 
 ![SC1](https://github.com/VimalPatel14/Music-Player-Bass_Boost-Equalizer/blob/master/np_card.png)
 
